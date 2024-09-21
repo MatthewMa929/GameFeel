@@ -1,7 +1,6 @@
 //addingf gravity to the y velocity
 y_vel += grav;
 
-
 y += y_vel;
 
 x += x_vel;

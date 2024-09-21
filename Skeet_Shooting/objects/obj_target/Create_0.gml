@@ -9,3 +9,9 @@ x_vel = 0;
 rotation_speed = 0;
 
 destory = false;
+
+r = random_range(0, 255)
+g = random_range(0, 255)
+b = random_range(0, 255)
+
+image_blend = make_color_rgb(r, g, b)
