@@ -1,4 +1,4 @@
-if(global.shader_on){
+if(obj_toggle_system.juice_arr[3]){
 	// Activating the shader
 	bktglitch_activate();
 

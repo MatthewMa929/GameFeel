@@ -1,9 +1,12 @@
 shoot_animation = false
-static_effect = false
+arm_movement = false
 target_particles = false
+shader_on = false;
+screen_shake = false;
+static_effect = false
 
-juice_arr = [shoot_animation, static_effect, target_particles]
-juice_labels = ["Shoot Animation", "Static Effect", "Target Particles"]
+juice_arr = [shoot_animation, arm_movement, target_particles, shader_on, screen_shake, static_effect]
+juice_labels = ["Shoot Animation", "Arm Movement", "Target Particles", "Shader", "Screen Shake", "Static Effect"]
 check_box_arr = []
 
 check_box_y = 32

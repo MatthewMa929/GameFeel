@@ -39,6 +39,7 @@
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},},
     {"id":{"name":"obj_draw_text","path":"objects/obj_draw_text/obj_draw_text.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_screen_shake","path":"objects/obj_screen_shake/obj_screen_shake.yy",},},
     {"id":{"name":"obj_shader","path":"objects/obj_shader/obj_shader.yy",},},
     {"id":{"name":"obj_target_generator","path":"objects/obj_target_generator/obj_target_generator.yy",},},
     {"id":{"name":"obj_target","path":"objects/obj_target/obj_target.yy",},},

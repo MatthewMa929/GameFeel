@@ -1,1 +1,1 @@
-global.shader_on = true;
+//global.shader_on = true;

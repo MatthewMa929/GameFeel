@@ -11,10 +11,18 @@ offset_x = clamp(offset_x, -max_x_offset, max_x_offset);
 offset_y = clamp(offset_y, -max_y_offset, max_y_offset);
 
 //move the gun sprite smoothly
-x += (offset_x - (x - base_x)) * smooth_factor;
-y += (offset_y - (y - base_y)) * smooth_factor;
+if(obj_toggle_system.juice_arr[1]){
+	x += (offset_x - (x - base_x)) * smooth_factor;
+	y += (offset_y - (y - base_y)) * smooth_factor;
+}
+else{
+	x = 490;
+	y = 490;
+}
 
 //player animaiton after clicking
 if(mouse_check_button_pressed(mb_left) and obj_toggle_system.juice_arr[0]){
 	image_speed = 1;
 }
+
+
