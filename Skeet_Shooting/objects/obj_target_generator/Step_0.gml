@@ -15,3 +15,5 @@ if(spawn_timer == 0){
 	spawn_timer = spawn_rate;
 }
 
+cursor_sprite = spr_cursor;
+

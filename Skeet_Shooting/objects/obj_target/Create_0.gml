@@ -7,3 +7,5 @@ x_vel = 0;
 
 //rotation variable
 rotation_speed = 0;
+
+destory = false;
