@@ -28,3 +28,9 @@ if(destory){
 		instance_destroy(id);
 	}
 }
+
+if(sprite_index == spr_target_destory && image_index = 3){
+	if(obj_toggle_system.juice_arr[6]){
+		audio_play_sound(snd_hit, 1, false);
+	}
+};

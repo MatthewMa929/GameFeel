@@ -21,8 +21,14 @@ else{
 }
 
 //player animaiton after clicking
-if(mouse_check_button_pressed(mb_left) and obj_toggle_system.juice_arr[0]){
-	image_speed = 1;
+if(mouse_check_button_pressed(mb_left)){
+	if(obj_toggle_system.juice_arr[0]){
+		image_speed = 1;
+	}
+	
+	if(obj_toggle_system.juice_arr[6]){
+		audio_play_sound(snd_gun_shot, 1, false);
+	}
 }
 
 

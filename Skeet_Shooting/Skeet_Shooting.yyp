@@ -49,6 +49,8 @@
     {"id":{"name":"bktGlitch","path":"scripts/bktGlitch/bktGlitch.yy",},},
     {"id":{"name":"global_variable","path":"scripts/global_variable/global_variable.yy",},},
     {"id":{"name":"shdBktGlitch","path":"shaders/shdBktGlitch/shdBktGlitch.yy",},},
+    {"id":{"name":"snd_gun_shot","path":"sounds/snd_gun_shot/snd_gun_shot.yy",},},
+    {"id":{"name":"snd_hit","path":"sounds/snd_hit/snd_hit.yy",},},
     {"id":{"name":"spr_check_box","path":"sprites/spr_check_box/spr_check_box.yy",},},
     {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
     {"id":{"name":"spr_pixel_gun","path":"sprites/spr_pixel_gun/spr_pixel_gun.yy",},},

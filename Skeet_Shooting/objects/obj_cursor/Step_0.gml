@@ -19,5 +19,6 @@ if(mouse_check_button_pressed(mb_left)){
 		obj_screen_shake.shake = true;
 		obj_screen_shake.shake_timer = obj_screen_shake.shake_duration;
 	}
+	
 }
 
