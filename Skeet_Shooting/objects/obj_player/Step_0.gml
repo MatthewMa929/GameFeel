@@ -15,6 +15,6 @@ x += (offset_x - (x - base_x)) * smooth_factor;
 y += (offset_y - (y - base_y)) * smooth_factor;
 
 //player animaiton after clicking
-if(mouse_check_button_pressed(mb_left)){
+if(mouse_check_button_pressed(mb_left) and obj_toggle_system.juice_arr[0]){
 	image_speed = 1;
 }
