@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.760726,
+  "duration":2.17,
   "name":"snd_gun_shot",
   "parent":{
     "name":"Sounds",

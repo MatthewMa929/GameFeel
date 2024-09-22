@@ -15,3 +15,6 @@ g = random_range(0, 255)
 b = random_range(0, 255)
 
 image_blend = make_color_rgb(r, g, b)
+point = true
+
+depth = -100

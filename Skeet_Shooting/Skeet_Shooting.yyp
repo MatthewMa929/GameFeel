@@ -35,7 +35,10 @@
   },
   "name":"Skeet_Shooting",
   "resources":[
+    {"id":{"name":"ComboText","path":"fonts/ComboText/ComboText.yy",},},
+    {"id":{"name":"ToggleText","path":"fonts/ToggleText/ToggleText.yy",},},
     {"id":{"name":"obj_check_box","path":"objects/obj_check_box/obj_check_box.yy",},},
+    {"id":{"name":"obj_combo_back","path":"objects/obj_combo_back/obj_combo_back.yy",},},
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},},
     {"id":{"name":"obj_draw_text","path":"objects/obj_draw_text/obj_draw_text.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -52,6 +55,7 @@
     {"id":{"name":"snd_gun_shot","path":"sounds/snd_gun_shot/snd_gun_shot.yy",},},
     {"id":{"name":"snd_hit","path":"sounds/snd_hit/snd_hit.yy",},},
     {"id":{"name":"spr_check_box","path":"sprites/spr_check_box/spr_check_box.yy",},},
+    {"id":{"name":"spr_combo_back","path":"sprites/spr_combo_back/spr_combo_back.yy",},},
     {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
     {"id":{"name":"spr_pixel_gun","path":"sprites/spr_pixel_gun/spr_pixel_gun.yy",},},
     {"id":{"name":"spr_target_destory","path":"sprites/spr_target_destory/spr_target_destory.yy",},},
