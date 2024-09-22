@@ -10,4 +10,5 @@ max_x_offset = 150;
 max_y_offset = 100;
 
 image_speed = 0;
+depth = -500;
 
