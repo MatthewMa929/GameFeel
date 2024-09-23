@@ -6,13 +6,14 @@ screen_shake = false;
 static_effect = false;
 sound_effect = false;
 combo_tracking = false;
+bgm_on = false;
 
 juice_arr = [shoot_animation, arm_movement, target_particles, 
 			shader_on, screen_shake, sound_effect, 
-			combo_tracking]
+			combo_tracking, bgm_on]
 juice_labels = ["Shoot Animation", "Arm Movement", "Target Particles",
 				"Shader", "Screen Shake",
-				"Sound FX", "Combo Tracking"]
+				"Sound FX", "Combo Tracking", "BGM"]
 check_box_arr = []
 
 check_box_y = 32
